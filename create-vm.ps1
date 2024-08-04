@@ -10,3 +10,4 @@ New-AzVM `
   -Location $location `
   -Credential $cred `
   -ImageName "UbuntuLTS"
+  -Size "Standard_D2s_v3"
