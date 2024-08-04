@@ -77,7 +77,7 @@ Log Analytics:
 •	Scripting Flexibility: Supports complex automation scenarios with powerful scripting capabilities.
 
 
-Conclusion
+Conclusion:  
 The combination of Git for version control, Linux for the execution environment, and PowerShell for scripting provides a robust framework for automating Azure resource management. This setup offers a cost-effective, flexible, and powerful solution for managing and versioning automation tasks in a cloud environment.
 
 
