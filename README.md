@@ -1,7 +1,9 @@
-Project Report: Automation and Version Control with Git, Linux, and PowerShell in Azure
- 
+**Project Report: Automation and Version Control with Git, Linux, and PowerShell in Azure
+**
+
 Objective
- Automate Azure resource management tasks using PowerShell scripting on Linux and maintain version control of scripts using Git and GitHub.
+
+Automate Azure resource management tasks using PowerShell scripting on Linux and maintain version control of scripts using Git and GitHub.
 
 Solution Steps: 
 1. Setting Up the Environment
