@@ -1,4 +1,4 @@
-Connect-AzAccount
+Connect-AzAccount -UseDeviceAuthentication
 # PowerShell script to create a new Azure VM
 $resourceGroupName = "MyResourceGroup"
 $location = "EastUS"
